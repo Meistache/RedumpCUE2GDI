@@ -19,7 +19,7 @@ Additional Batch Files:
 
 # How to use it?
 - Redump Dreamcast archive images should be extracted to their own folders.
-- Download the RedumpCUE2GDI.zip
+- Download the RedumpCUE2GDI.zip -> https://github.com/AwfulBear/RedumpCUE2GDI/blob/master/RedumpCUE2GDI.zip
 - Place the files from RedumpCUE2GDI.zip in the root folder of where all your images are extracted.
 - Run the appropriate batch file and follow the on screen instructions
 
