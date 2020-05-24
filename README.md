@@ -25,4 +25,6 @@ Additional Batch Files:
 # Legal stuff
 This software contains CueSharp licensed under the 2-clause BSD License found here: [here](https://wyday.com/bsd-license.php)
 
+The batch files use compiled version of CHDMAN https://github.com/mamedev/mame/blob/master/src/tools/chdman.cpp to compress the GDI images. No changes have been made to CHDMAN. 
+
 This software itself it license under 2-clause BSD as well. I'm not good with legal stuff either liek the original creator so I am crediting him through out and keepign the same license. 
