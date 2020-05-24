@@ -19,13 +19,13 @@ Additional Batch Files:
 
 # How to use it?
 - Redump Dreamcast archive images should be extracted to their own folders. 
-- Download the RedumpCUE2GDI.zip -> https://github.com/AwfulBear/RedumpCUE2GDI/releases
+- Download the RedumpCUE2GDI.zip from the [releases](https://github.com/AwfulBear/RedumpCUE2GDI/releases)
 - Place the files from RedumpCUE2GDI.zip in the root folder of where all your images are extracted.
 - Run the appropriate batch file and follow the on screen instructions
 
 # Legal stuff
-This software contains CueSharp licensed under the 2-clause BSD License found here: [here](https://wyday.com/bsd-license.php)
+This software contains CueSharp licensed under the [2-clause BSD License](https://wyday.com/bsd-license.php)
 
-The batch files use compiled version of CHDMAN https://github.com/mamedev/mame/blob/master/src/tools/chdman.cpp to compress the GDI images. No changes have been made to CHDMAN. 
+The batch files use compiled version of [CHDMAN](https://github.com/mamedev/mame/blob/master/src/tools/chdman.cpp) to compress the GDI images. No changes have been made to CHDMAN. 
 
-This software itself it license under 2-clause BSD as well. I'm not good with legal stuff either liek the original creator so I am crediting him through out and keepign the same license. 
+This software itself is licensed under 2-clause BSD as well. I'm not good with legal stuff either same as the original creator so I am crediting him through out and keepign the same license. 
