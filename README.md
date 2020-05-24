@@ -9,7 +9,7 @@ The included batch scripts will convert BIN/CUE images -> GDI images or BIN/CUE 
 Updates to the original program include: 
 - The ability to pass a file name to be processed via command line to allow batch jobs.
 - Output on file creation status via console when running through a batch script. 
-- Organization of the created files into folders that allow for easy removal when converting completly from BIN/CUE to GDI to CHD. 
+- Organization of the created files into folders that allow for easy removal when completly converting BIN/CUE -> GDI -> CHD. 
 - Updated images file resources.
 
 Additional Batch Files:
