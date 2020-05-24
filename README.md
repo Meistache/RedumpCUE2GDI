@@ -1,6 +1,7 @@
 # What's this?
-RedumpCUE2GDI is based on the app GDIdrop by https://github.com/feyris-tan/ 
-This a small C# Program to convert Redump Dreamcast archive BIN/CUE images to GDI images. Unfortuantly the only way to use Redump Dreamcast images for some emulators is to convert them to GDI.
+RedumpCUE2GDI is based on the app GDIdrop by https://github.com/feyris-tan/
+
+This is program to convert Redump Dreamcast archive BIN/CUE images to GDI images. Unfortuantly the only way to use Redump Dreamcast images for some emulators is to convert them to GDI.
 
 You also cannot directly compress a Redump Dreamcast image to create a CHD image! You must convert them to GDI first then convert the GDI to CHD in order for it to be playable. 
 
