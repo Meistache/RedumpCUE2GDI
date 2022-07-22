@@ -29,3 +29,5 @@ This software contains CueSharp licensed under the [2-clause BSD License](https:
 The batch files use compiled version of [CHDMAN](https://github.com/mamedev/mame/blob/master/src/tools/chdman.cpp) to compress the GDI images. No changes have been made to CHDMAN. 
 
 This software itself is licensed under 2-clause BSD as well. I'm not good with legal stuff either same as the original creator so I am crediting him through out and keeping the same license. 
+
+Please only use this software for legally owned games.
