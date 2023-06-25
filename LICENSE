@@ -1,7 +1,9 @@
 BSD 2-Clause License
 
-GDIdump Copyright (c) 2019, "Feyris-Tan"
-Modified and updated Copyright (c) 2020, "Awfulbear"
+Original gdi-converter (c) 2021, "sirconan"
+RedumpCUE2GDI Copyright (c) 2020, "Awfulbear"
+Based on GDIdump Copyright (c) 2019, "Feyris-Tan"
+Modified and updated Copyright (c) 2023, "Meistache"
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
